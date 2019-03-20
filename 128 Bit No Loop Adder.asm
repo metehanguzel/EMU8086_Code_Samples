@@ -1,6 +1,6 @@
 
 ; Gazi University, Computer Engineering Dept.
-; CENG310 - Microprocessors
+; CENG318 - Microprocessors
 ; Spring '19
 ; Res. Asst. Metehan GUZEL
 
