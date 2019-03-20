@@ -19,7 +19,7 @@ start:
               
         ; Number1 0700:0210H - 0700:021FH   
            
-    mov BP, 0310H
+    mov BP, 0210H
     mov DI, 0H
       
     mov AX, number1
