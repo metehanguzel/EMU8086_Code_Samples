@@ -2,7 +2,9 @@
 ; Gazi University, Computer Engineering Dept.
 ; CENG318 - Microprocessors
 ; Spring '19
-; Res. Asst. Metehan GUZEL
+; Res. Asst. Metehan GUZEL   
+; metehanguzel@gazi.edu.tr
+; https://metehanguzel.github.io/
 
 org 100h
                      
